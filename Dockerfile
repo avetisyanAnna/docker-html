@@ -1,4 +1,4 @@
-FROM nginx:13.12.0-alpine
+FROM nginx:alpine
 
 ENV CI=true
 ENV PORT=3000
